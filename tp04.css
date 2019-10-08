@@ -1,0 +1,82 @@
+html
+{
+	background-color : #408080; <!-- couleur pour le fond d'ecran -->
+}
+body
+{ 
+	margin-left : 350px;
+	margin-right : 350px;
+	background-color : #DDDDDD;
+}
+header
+{
+	background-color : #878787;
+	padding: 10px 40px 10px 40px;
+	color: #694C46;
+	text-align : center;
+}
+h1
+{
+	font-family : "Serif";
+}
+.banner
+{
+	height: 25px;  
+	text-align : center ;
+	background : #A1736A ;
+	color: white;
+	font-size: 1.2em;
+}
+h5
+{
+	text-decoration: underline; 
+}
+h4
+{
+	color : #A1736A;
+}
+.nav
+{
+	position : absolute;
+	float : left;
+	text-align : left;
+	margin : 10px;
+	color : #A1736A;
+	border-right : 1px black dotted;
+	width: 170px;
+	height : 500px;
+	padding-bottom :10px;
+}
+img 
+{
+	width: 150px;
+	height:100px;
+}
+.image
+{
+	float : left;
+	box-shadow: 8px 8px 12px #aaa;
+	margin: 10px;
+	
+}
+.main
+{
+	margin-left : 250px;
+	text-align : justify;
+	margin-right : 10px;
+}
+footer
+{
+	color : white;
+	background-color :#A1736A;
+	column-count: 3;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:10px;
+	padding-left:10px;
+}
+.partenaire
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
